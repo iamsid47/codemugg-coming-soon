@@ -1085,8 +1085,26 @@ a {
   background-color: #ffffff;
   color: #000000;
 }
+.cid-sk3z08eJQE {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sk3z08eJQE .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sk3z08eJQE img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sk3z08eJQE .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-sjG7W31Cmf {
-  padding-top: 5rem;
+  padding-top: 3rem;
   padding-bottom: 4rem;
   background-color: #ffffff;
 }
